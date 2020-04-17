@@ -1,0 +1,21 @@
+200
+Paver
+0 2 1 1 i 60
+Paver
+3 2 1 1 i 60
+Paver
+1 2 1 1 i 60
+NFighter
+0 20 1 1 i 60
+NFighter
+2 20 1 1 i 60
+NFighter
+2 20 1 1 i 40
+NFighter
+0 20 1 1 i 33
+SFighter
+2 20 1 1 i 57
+SFighter
+0 20 1 1 i 55
+SFighter
+2 20 1 1 i 52

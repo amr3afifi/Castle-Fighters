@@ -1,0 +1,23 @@
+ID: 2  Type: p  KTS18  FD 0  KD 17  LT 17  
+ID: 1  Type: p  KTS18  FD 0  KD 17  LT 17  
+ID: 0  Type: p  KTS19  FD 0  KD 18  LT 18  
+ID: 3  Type: q  KTS20  FD 0  KD 19  LT 19  
+ID: 4  Type: r  KTS23  FD 0  KD 22  LT 22  
+ID: 11  Type: r  KTS23  FD 0  KD 22  LT 22  
+ID: 10  Type: q  KTS26  FD -842150451  KD 842150477  LT 25  
+ID: 9  Type: s  KTS30  FD 0  KD 29  LT 29  
+ID: 16  Type: s  KTS30  FD 0  KD 29  LT 29  
+ID: 6  Type: n  KTS30  FD 19  KD 10  LT 29  
+ID: 14  Type: s  KTS33  FD 0  KD 32  LT 32  
+ID: 7  Type: s  KTS33  FD 0  KD 32  LT 32  
+ID: 13  Type: n  KTS37  FD 26  KD 10  LT 36  
+ID: 5  Type: n  KTS40  FD 30  KD 9  LT 39  
+ID: 12  Type: n  KTS40  FD 30  KD 9  LT 39  
+ID: 8  Type: s  KTS44  FD 0  KD 43  LT 43  
+ID: 15  Type: s  KTS44  FD 0  KD 43  LT 43  
+ Tower A damage 63.664 Tower B damage 15.8238 Tower C damage 78.4865 Tower D damage0.385242
+ Tower A unpaved 3 Tower B unpaved 3 Tower C unpaved 30 Tower D unpaved 3
+ Game is Win
+Enemy Killed = 17
+ Avg First Shot Delay -49538255
+ Avg Kill Delay 49538284

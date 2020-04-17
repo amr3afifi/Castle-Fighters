@@ -1,0 +1,38 @@
+200
+300
+1 2 3
+4
+Paver
+0 2 1 1 i 60 100
+Paver
+3 2 1 1 i 60 100
+Paver
+1 2 1 1 i 60 100
+HacksawRidge
+0 20 1 1 i 60 100
+Survivour
+1 20 1 1 i 57 100
+NFighter
+2 20 1 1 i 40 100
+NFighter
+0 20 1 1 i 33 100
+SFighter
+2 20 1 1 i 57 100
+SFighter
+0 20 1 1 i 55 100
+SFighter
+2 20 1 1 i 52 100
+HacksawRidge
+0 20 1 1 i 60 100
+Survivour
+1 20 1 1 i 57 100
+NFighter
+2 20 1 1 i 40 100
+NFighter
+0 20 1 1 i 33 100
+SFighter
+2 20 1 1 i 57 100
+SFighter
+0 20 1 1 i 55 100
+SFighter
+2 20 1 1 i 52 100
